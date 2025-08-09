@@ -1,1 +1,1 @@
-# DBMS_GUI
+This project is a Database Management System (DBMS) with a Graphical User Interface (GUI) developed in Python. It allows users to create, manage, and interact with databases through an intuitive visual interface. The application supports dynamic table creation and manipulation, enabling users to define table structures, enter data, and perform basic database operations without needing advanced SQL knowledge. This tool is designed to simplify database management tasks, making it accessible for learning and practical use in small to medium-scale projects.
